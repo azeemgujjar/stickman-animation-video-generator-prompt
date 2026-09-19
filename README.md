@@ -1,3 +1,7 @@
+# Please Star ⭐ the Repo, This is your appriciation 
+![How to Star](please-star.jpg)
+
+
 # STICKMAN ANIMATION VIDEO GENERATOR PROMPT
 
 ![Stickman Character Reference](stickman-character-reference.png)
